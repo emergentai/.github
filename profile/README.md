@@ -1,4 +1,4 @@
-# Hi there
+# Hi there 👋
 
 We’re a Toronto-based 🇨🇦 AI lab dedicated to building practical AI solutions that help businesses thrive 🚀.
 
