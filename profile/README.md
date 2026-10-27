@@ -1,6 +1,6 @@
 # Hi there 👋
 
-We’re a Toronto-based 🇨🇦 AI lab dedicated to building practical AI solutions that help businesses thrive 🚀.
+We're an AI lab working on the AI tools people will rely on in the years ahead 🚀
 
 [🌐 Learn more about us](https://emergentai.ca/)
 
